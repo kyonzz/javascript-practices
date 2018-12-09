@@ -1,17 +1,18 @@
 # javascript-practices
-Blogging:
+
+# Blogging:
 +
 
-HTML5 API
-_ Media
+# HTML5 API
+Media
 +
-- Text Track API:
+Text Track:
 +
-- Drag and drop:
+Drag and drop:
 +
-- Canvas:
+Canvas:
 +
-- WebRTC
+WebRTC
 +
-- Services Worker
+Services Worker
 +
